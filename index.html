@@ -1,0 +1,33 @@
+<!DOCTYPE html>  
+<html lang="pt-BR">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>MR TURISMO - Acesso ao Contrato</title>  
+    <link rel="stylesheet" href="styles.css">  
+</head>  
+<body>  
+    <div class="background">  
+        <header>  
+            <div class="logo-container">  
+                <img   
+                    src="https://i.postimg.cc/JhH0gzXH/LOGO-MR-TURISMO-BRANCO.png"   
+                    alt="Logo da MR TURISMO"   
+                    class="logo"   
+                    id="logo"  
+                >  
+            </div>  
+            <h1>MR TURISMO</h1>  
+        </header>  
+
+        <main>  
+            <h2>Acesse o seu Contrato</h2>  
+            <a href="contract.html" class="access-contract">Clique aqui e acesse o contrato</a>  
+        </main>  
+
+        <footer>  
+            <p>&copy; 2025 MR TURISMO</p>  
+        </footer>  
+    </div>  
+</body>  
+</html>  
